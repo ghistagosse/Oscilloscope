@@ -1,6 +1,6 @@
 # Oscilloscope
 
-Oscilloscope numérique à affichage sur PC
+Oscilloscope numérique à affichage sur PC (et/ou sur smartphone)
 
 ## Introduction
 	
