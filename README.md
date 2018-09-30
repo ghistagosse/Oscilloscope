@@ -4,7 +4,7 @@ Oscilloscope numérique à affichage sur PC
 
 ## Introduction
 	
-	Un oscilloscope est un instrument de mesure destiné à visualiser un signal 
+Un oscilloscope est un instrument de mesure destiné à visualiser un signal 
 électrique, le plus souvent variable au cours du temps. Il est utilisé par de 
 nombreux scientifiques afin de visualiser soit des tensions électriques, soit
 diverses autres grandeurs physiques préalablement transformées en tension au 
